@@ -1,4 +1,4 @@
 Hello World!
-Hello kittyt!
+Hello kitty!
 ------------------
-this is the second version
+this is the second version!
